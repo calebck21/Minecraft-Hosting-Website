@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    background: #B2C8DF;
+}
+
+
+
+/*------------FONT FAMILY------------*/
+
+@font-face {
+    font-family: ;
+    src: url()
+}
+
+@font-face {
+    font-family: ;
+    src: url()
+}
+
+@font-face {
+    font-family: ;
+    src: url()
+}
+
+/*------------ FONT FAMILY END ------------*/
+
+
+/*------Menu-Content-----*/
+
+.menu-a {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.menu-content {
+    width: 760px;
+    height: 60px;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menu-content a {
+    padding: 22px 36px;
+    border-radius: 12px;
+    text-decoration: none;
+    color: black;
+    background-color: #F6F6F6;
+}
+
+.menu-content a:hover {
+    padding: 26px 38px;
+    border-radius: 12px;
+}
