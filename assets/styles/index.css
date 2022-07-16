@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: #B2C8DF;
+    background-image: url(../image/backgorund/Nether_Portal_background.png)
 }
 
 
@@ -26,11 +26,14 @@ body {
 
 /*------Menu-Content-----*/
 
-.menu-a {}
+.menu-a {
+    margin-left: 12px;
+    margin-right: 12px;
+}
 
 .menu-content {
-    width: 760px;
-    height: 60px;
+    width: fit-content;
+    height: fit-content;
     margin-top: 60px;
     margin-left: auto;
     margin-right: auto;
@@ -50,7 +53,14 @@ body {
 .menu-content a:hover {
     padding: 26px 38px;
     border-radius: 12px;
-    transition: 500ms;
+    transition: 400ms;
+    font-size: 17px;
+    color: #51f778;
+    background: #d1d1d1;
+}
+
+.menu-content a:active {
+    background: url(../)
 }
 
 /*------Menu-Content END-----*/
@@ -62,8 +72,8 @@ body {
     margin-top: 70px;
     margin-left: auto;
     margin-right: auto;
-    width: 760px;
-    height: 500px;
+    width: 1000px;
+    height: 700px;
     border-radius: 12px;
     background-color: #F6F6F6;
 }
