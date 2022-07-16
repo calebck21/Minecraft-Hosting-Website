@@ -4,12 +4,11 @@ body {
 }
 
 
-
 /*------------FONT FAMILY------------*/
 
 @font-face {
-    font-family: ;
-    src: url()
+    font-family: Merriweather-Font;
+    src: url(../font/Merriweather/Merriweather-Black.ttf)
 }
 
 @font-face {
@@ -27,10 +26,7 @@ body {
 
 /*------Menu-Content-----*/
 
-.menu-a {
-    margin-left: 5px;
-    margin-right: 5px;
-}
+.menu-a {}
 
 .menu-content {
     width: 760px;
@@ -45,10 +41,29 @@ body {
     border-radius: 12px;
     text-decoration: none;
     color: black;
+    font-size: 16px;
+    transition: 500ms;
+    font-family: Merriweather-Font;
     background-color: #F6F6F6;
 }
 
 .menu-content a:hover {
     padding: 26px 38px;
     border-radius: 12px;
+    transition: 500ms;
+}
+
+/*------Menu-Content END-----*/
+
+/*------ content body-----*/
+
+.main-content-body {
+    margin: 0;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 760px;
+    height: 500px;
+    border-radius: 12px;
+    background-color: #F6F6F6;
 }
