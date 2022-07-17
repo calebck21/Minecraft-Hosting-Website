@@ -1,8 +1,32 @@
 body {
     margin: 0;
-    background-image: url(../image/backgorund/Nether_Portal_background.png)
 }
 
+h1 {
+    font-family: Minecraft-Font;
+    position: relative;
+    bottom: 10px;
+    font-size: 20px;
+}
+
+.h1-title {
+    font-size: 22px;
+    text-align: center;
+    font-family: Minecraft-Font;
+    width: 160px;
+    height: 30px;
+    padding: 14px;
+    border-radius: 12px;
+    background-image: url(../image/backgorund/End_Stone_background_BE2.webp)
+}
+
+#Background-Video {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
 
 /*------------FONT FAMILY------------*/
 
@@ -12,8 +36,8 @@ body {
 }
 
 @font-face {
-    font-family: ;
-    src: url()
+    font-family: Minecraft-Font;
+    src: url(../font/minecraft-4-cdnfonts/MinecraftTen-VGORe.ttf)
 }
 
 @font-face {
@@ -23,10 +47,16 @@ body {
 
 /*------------ FONT FAMILY END ------------*/
 
+.menu-a-1 {
+    padding: 20px;
+}
 
-/*------Menu-Content-----*/
+.menu-a-2 {
+    margin-left: 12px;
+    margin-right: 12px;
+}
 
-.menu-a {
+.menu-a-3 {
     margin-left: 12px;
     margin-right: 12px;
 }
@@ -37,6 +67,7 @@ body {
     margin-top: 60px;
     margin-left: auto;
     margin-right: auto;
+    position: relative;
 }
 
 .menu-content a {
@@ -44,9 +75,9 @@ body {
     border-radius: 12px;
     text-decoration: none;
     color: black;
-    font-size: 16px;
+    font-size: 18px;
     transition: 500ms;
-    font-family: Merriweather-Font;
+    font-family: Minecraft-Font;
     background-color: #F6F6F6;
 }
 
@@ -54,26 +85,71 @@ body {
     padding: 26px 38px;
     border-radius: 12px;
     transition: 400ms;
-    font-size: 17px;
-    color: #51f778;
+    font-size: 20px;
+    font-family: Minecraft-Font;
+    color: #dd562d;
     background: #d1d1d1;
 }
 
-.menu-content a:active {
-    background: url(../)
+.menu-content a:active {}
+
+
+
+.Buttons-Body-Content {
+    width: 1400px;
+    height: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 80px;
+    display: flex;
+    align-items: center;
+    gap: 200px;
+    color: white;
 }
-
-/*------Menu-Content END-----*/
-
-/*------ content body-----*/
 
 .main-content-body {
     margin: 0;
-    margin-top: 70px;
-    margin-left: auto;
-    margin-right: auto;
     width: 1000px;
-    height: 700px;
+    height: 900px;
     border-radius: 12px;
+    position: relative;
+    left: 230px;
     background-color: #F6F6F6;
+}
+
+.button-link-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    position: absolute;
+    top: 100px;
+    text-align: center;
+}
+
+/*--------------------------------------*/
+.download-1 {
+    width: 190px;
+    height: 70px;
+    background-image: ;
+}
+
+.download-2 {
+    width: 190px;
+    height: 70px;
+}
+
+.download-3 {
+    width: 190px;
+    height: 70px;
+}
+
+.download-4 {
+    width: 190px;
+    height: 70px;
+}
+
+.download-5 {
+    width: 190px;
+    height: 70px;
 }
