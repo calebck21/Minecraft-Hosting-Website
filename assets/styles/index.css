@@ -130,26 +130,70 @@ h1 {
 /*--------------------------------------*/
 .download-1 {
     width: 190px;
-    height: 70px;
-    background-image: ;
+    height: 60px;
+    border-radius: 12px;
+    transition: 500ms;
 }
 
+.download-1:hover {
+    width: 195px;
+    height: 65px;
+    border-radius: 12px;
+    transition: 500ms;
+}
+/*---------------------------*/
 .download-2 {
     width: 190px;
-    height: 70px;
+    height: 60px;
+    border-radius: 12px;
+    transition: 500ms;
 }
 
+.download-2:hover {
+    width: 195px;
+    height: 65px;
+    border-radius: 12px;
+    transition: 500ms;
+}
+/*---------------------------*/
 .download-3 {
     width: 190px;
-    height: 70px;
+    height: 60px;
+    border-radius: 12px;
+    transition: 500ms;
 }
 
+.download-3:hover {
+    width: 195px;
+    height: 65px;
+    border-radius: 12px;
+    transition: 500ms;
+}
+/*---------------------------*/
 .download-4 {
     width: 190px;
-    height: 70px;
+    height: 60px;
+    border-radius: 12px;
+    transition: 500ms;
 }
 
+.download-4:hover {
+    width: 195px;
+    height: 65px;
+    border-radius: 12px;
+    transition: 500ms;
+}
+/*---------------------------*/
 .download-5 {
     width: 190px;
-    height: 70px;
+    height: 60px;
+    border-radius: 12px;
+    transition: 500ms;
+}
+
+.download-5:hover {
+    width: 195px;
+    height: 65px;
+    border-radius: 12px;
+    transition: 500ms;
 }
