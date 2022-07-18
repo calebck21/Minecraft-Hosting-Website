@@ -94,7 +94,7 @@ h1 {
 .menu-content a:active {}
 
 
-
+/*-----------------------------------*/
 .Buttons-Body-Content {
     width: 1400px;
     height: 900px;
@@ -116,6 +116,29 @@ h1 {
     position: relative;
     left: 230px;
     background-color: #495C83;
+}
+
+.Title-Container {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content-Title {
+    width: 600px;
+    text-align: center;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Paragraph-Title {
+    font-size: 24px;
+    width: 300px;
+    height: 200px;;
+    position: relative;
+    top: 60px;
+    left: 20px;
 }
 
 .button-link-container {
@@ -148,12 +171,16 @@ h1 {
     height: 65px;
     border-radius: 12px;
     transition: 500ms;
+    background-image: url(../image/backgorund/Nether_Portal_background.png)
+}
+
+.download-1:active {
+    border-color: yellow;
 }
 
 .download-btn-1 {
     color: white;
-    position: relative;
-    top: 5px;
+    font-family: Minecraft-Font;
 }
 
 
@@ -174,6 +201,11 @@ h1 {
     height: 65px;
     border-radius: 12px;
     transition: 500ms;
+    background-image: url(../image/backgorund/Nether_Portal_background.png)
+}
+
+.download-2:active {
+    border-color: yellow;
 }
 
 .download-btn-2 {
@@ -198,6 +230,11 @@ h1 {
     height: 65px;
     border-radius: 12px;
     transition: 500ms;
+    background-image: url(../image/backgorund/Nether_Portal_background.png)
+}
+
+.download-3:active {
+    border-color: yellow;
 }
 /*---------------------------*/
 .download-4 {
@@ -216,6 +253,11 @@ h1 {
     height: 65px;
     border-radius: 12px;
     transition: 500ms;
+    background-image: url(../image/backgorund/Nether_Portal_background.png)
+}
+
+.download-4:active {
+    border-color: yellow;
 }
 /*---------------------------*/
 .download-5 {
@@ -234,4 +276,45 @@ h1 {
     height: 65px;
     border-radius: 12px;
     transition: 500ms;
+    background-image: url(../image/backgorund/Nether_Portal_background.png)
+}
+
+.download-5:active {
+    border-color: yellow;
+}
+
+/*--------------------------------*/
+
+#content-video-1 {
+    width: 500px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    position: relative;
+    left: 460px;
+    bottom: 190px;
+    transition: 700ms;
+}
+
+#content-video-1:hover {
+    width: 520px;
+    transition: 700ms;
+}
+
+#content-video-2 {
+    width: 500px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    position: relative;
+    left: 460px;
+    bottom: 130px;
+    transition: 700ms;
+}
+
+#content-video-2:hover {
+    width: 520px;
+    transition: 700ms;
 }
