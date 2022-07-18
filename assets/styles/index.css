@@ -294,14 +294,13 @@ h1 {
     position: relative;
     left: 460px;
     bottom: 190px;
-    transition: 700ms;
 }
-
+/*
 #content-video-1:hover {
     width: 520px;
     transition: 700ms;
 }
-
+*/
 #content-video-2 {
     width: 500px;
     border-color: black;
@@ -311,10 +310,10 @@ h1 {
     position: relative;
     left: 460px;
     bottom: 130px;
-    transition: 700ms;
 }
-
+/*
 #content-video-2:hover {
     width: 520px;
     transition: 700ms;
 }
+*/
