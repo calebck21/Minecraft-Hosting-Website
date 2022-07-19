@@ -210,8 +210,7 @@ h1 {
 
 .download-btn-2 {
     color: white;
-    position: relative;
-    top: 5px;
+    font-family: Minecraft-Font;
 }
 /*---------------------------*/
 .download-3 {
