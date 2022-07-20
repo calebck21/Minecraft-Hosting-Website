@@ -40,11 +40,6 @@ h1 {
     src: url(../font/minecraft-4-cdnfonts/MinecraftTen-VGORe.ttf)
 }
 
-@font-face {
-    font-family: ;
-    src: url()
-}
-
 /*------------ FONT FAMILY END ------------*/
 
 .menu-a-1 {
@@ -91,8 +86,6 @@ h1 {
     color: #dd562d;
     background: #d1d1d1;
 }
-
-.menu-content a:active {}
 
 
 /*-----------------------------------*/
