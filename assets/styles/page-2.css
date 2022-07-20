@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    background-image: url(../image/backgorund/Nether_Portal_background.png)
+}
+/*-------------------*/
+
+.menu-a-1 {
+    padding: 20px;
+}
+
+.menu-a-2 {
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.menu-a-3 {
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.menu-content {
+    width: fit-content;
+    height: fit-content;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    left: 30px;
+}
+
+.menu-content a {
+    padding: 22px 36px;
+    border-radius: 12px;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    transition: 500ms;
+    font-family: Minecraft-Font;
+    background-color: #495C83;
+}
+
+.menu-content a:hover {
+    padding: 26px 38px;
+    border-radius: 12px;
+    transition: 400ms;
+    font-size: 20px;
+    font-family: Minecraft-Font;
+    color: #dd562d;
+    background: #d1d1d1;
+}
+
+
+/*-----------------------------------*/
