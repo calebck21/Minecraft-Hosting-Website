@@ -136,7 +136,8 @@ h1 {
 .Paragraph-Title {
     font-size: 24px;
     width: 300px;
-    height: 200px;;
+    height: 200px;
+    ;
     position: relative;
     top: 60px;
     left: 20px;
@@ -155,6 +156,7 @@ h1 {
 .color-link {
     color: green;
 }
+
 /*--------------------------------------*/
 .download-1 {
     width: 190px;
@@ -213,6 +215,7 @@ h1 {
     color: white;
     font-family: Minecraft-Font;
 }
+
 /*---------------------------*/
 .download-3 {
     width: 190px;
@@ -241,6 +244,7 @@ h1 {
     color: white;
     font-family: Minecraft-Font;
 }
+
 /*---------------------------*/
 .download-4 {
     width: 190px;
@@ -264,6 +268,7 @@ h1 {
 .download-4:active {
     border-color: yellow;
 }
+
 /*---------------------------*/
 .download-5 {
     width: 190px;
@@ -300,12 +305,7 @@ h1 {
     left: 460px;
     bottom: 190px;
 }
-/*
-#content-video-1:hover {
-    width: 520px;
-    transition: 700ms;
-}
-*/
+
 #content-video-2 {
     width: 500px;
     border-color: black;
@@ -316,9 +316,3 @@ h1 {
     left: 460px;
     bottom: 130px;
 }
-/*
-#content-video-2:hover {
-    width: 520px;
-    transition: 700ms;
-}
-*/
