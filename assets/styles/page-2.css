@@ -64,6 +64,10 @@ span {
     background: #d1d1d1;
 }
 
+.menu-content a:active {
+    background-image: url(../image/backgorund/Nether_Portal_background.png)
+}
+
 
 /*-----------------------------------*/
 
