@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-image: url(../image/backgorund/Nether_Portal_background.png)
+    background-image: url(../image/backgorund/PNG-NETHER.png)
 }
 
 span {
@@ -65,7 +65,7 @@ span {
 }
 
 .menu-content a:active {
-    background-image: url(../image/backgorund/Nether_Portal_background.png)
+    background-image: url(../image/button-backgrounds/END-STONE-WEBP.webp)
 }
 
 

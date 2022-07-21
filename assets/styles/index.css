@@ -17,7 +17,7 @@ h1 {
     height: 30px;
     padding: 14px;
     border-radius: 12px;
-    background-image: url(../image/backgorund/End_Stone_background_BE2.webp)
+    background-image: url(../image/backgorund/END-STONE-WEBP.webp)
 }
 
 #Background-Video {
@@ -88,7 +88,7 @@ h1 {
 }
 
 .menu-content a:active {
-    background-image: url(../image/backgorund/Nether_Portal_background.png)
+    background-image: url(../image/backgorund/PNG\ NETHER.png)
 }
 
 
@@ -163,7 +163,7 @@ h1 {
     border-color: white;
     border-style: solid;
     text-decoration: none;
-    background-image: url(../image/button\ backgrounds/obsidian.png)
+    background-image: url(../image/button-backgrounds/obsidian.png)
 }
 
 .download-1:hover {
@@ -171,7 +171,7 @@ h1 {
     height: 65px;
     border-radius: 12px;
     transition: 500ms;
-    background-image: url(../image/backgorund/Nether_Portal_background.png)
+    background-image: url(../image/backgorund/PNG-NETHER.png)
 }
 
 .download-1:active {
@@ -193,7 +193,7 @@ h1 {
     border-color: white;
     border-style: solid;
     text-decoration: none;
-    background-image: url(../image/button\ backgrounds/obsidian.png)
+    background-image: url(../image/button-backgrounds/obsidian.png)
 }
 
 .download-2:hover {
@@ -201,7 +201,7 @@ h1 {
     height: 65px;
     border-radius: 12px;
     transition: 500ms;
-    background-image: url(../image/backgorund/Nether_Portal_background.png)
+    background-image: url(../image/backgorund/PNG-NETHER.png)
 }
 
 .download-2:active {
@@ -222,7 +222,7 @@ h1 {
     border-color: white;
     border-style: solid;
     text-decoration: none;
-    background-image: url(../image/button\ backgrounds/obsidian.png)
+    background-image: url(../image/button-backgrounds/obsidian.png)
 }
 
 .download-3:hover {
@@ -230,7 +230,7 @@ h1 {
     height: 65px;
     border-radius: 12px;
     transition: 500ms;
-    background-image: url(../image/backgorund/Nether_Portal_background.png)
+    background-image: url(../image/backgorund/PNG-NETHER.png)
 }
 
 .download-3:active {
@@ -251,7 +251,7 @@ h1 {
     border-color: white;
     border-style: solid;
     text-decoration: none;
-    background-image: url(../image/button\ backgrounds/obsidian.png)
+    background-image: url(../image/button-backgrounds/obsidian.png)
 }
 
 .download-4:hover {
@@ -259,7 +259,7 @@ h1 {
     height: 65px;
     border-radius: 12px;
     transition: 500ms;
-    background-image: url(../image/backgorund/Nether_Portal_background.png)
+    background-image: url(../image/backgorund/PNG-NETHER.png)
 }
 
 .download-4:active {
@@ -275,7 +275,7 @@ h1 {
     border-color: white;
     border-style: solid;
     text-decoration: none;
-    background-image: url(../image/button\ backgrounds/obsidian.png)
+    background-image: url(../image/button-backgrounds/obsidian.png)
 }
 
 .download-5:hover {
@@ -283,7 +283,7 @@ h1 {
     height: 65px;
     border-radius: 12px;
     transition: 500ms;
-    background-image: url(../image/backgorund/Nether_Portal_background.png)
+    background-image: url(../image/backgorund/PNG-NETHER.png)
 }
 
 .download-5:active {
