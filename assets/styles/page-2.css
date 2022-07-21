@@ -2,6 +2,21 @@ body {
     margin: 0;
     background-image: url(../image/backgorund/Nether_Portal_background.png)
 }
+
+span {
+    background-color: yellow;
+}
+
+@font-face {
+    font-family: Minecraft-Font;
+    src: url(../font/minecraft-4-cdnfonts/MinecraftTen-VGORe.ttf);
+}
+
+@font-face {
+    font-family: Merriweather-Font;
+    src: url(../font/Merriweather/Merriweather-Black.ttf);
+}
+
 /*-------------------*/
 
 .menu-a-1 {
@@ -53,11 +68,55 @@ body {
 /*-----------------------------------*/
 
 .main-body-content {
-    width: 1200px;
-    height: 800px;
+    width: 1400px;
+    height: 1100px;
     margin-top: 40px;
     margin-left: auto;
     margin-right: auto;
     border-radius: 12px;
     background-color: white;
+}
+
+.Tutorial-Title {
+    font-family: Minecraft-Font;
+    font-size: 40px;
+    position: relative;
+    width: fit-content;
+    top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Tutorial-Video-P {
+    text-align: center;
+    width: 800px;
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    border-style: solid;
+    border-radius: 12px;
+    font-family: Merriweather-Font;
+}
+
+.Video-Container {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*---------------------------------------*/
+
+.SP-1 {
+    border-radius: 4px;
+    background-color: lightgreen;
+    text-decoration: underline;
+}
+
+
+.SP-2 {
+    border-radius: 4px;
+    text-decoration: underline;
 }
