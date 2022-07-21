@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    background-image: url(../image/backgorund/END-STONE-WEBP.webp);
+}
+
+hr {
+    width: 80%;
+}
+
+@font-face {
+    font-family: Minecraft-Font;
+    src: url(../font/minecraft-4-cdnfonts/MinecraftTen-VGORe.ttf);
+}
+
+@font-face {
+    font-family: Merriweather-Font;
+    src: url(../font/Merriweather/Merriweather-Black.ttf);
+}
+
+/*-------------------------------------------------------------------*/
+
+.menu-a-1 {
+    padding: 20px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.menu-a-2 {
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.menu-a-3 {
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.menu-content {
+    width: fit-content;
+    height: fit-content;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    left: 30px;
+}
+
+.menu-content a {
+    padding: 22px 36px;
+    border-radius: 12px;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    transition: 500ms;
+    font-family: Minecraft-Font;
+    background-color: #495C83;
+}
+
+.menu-content a:hover {
+    padding: 26px 38px;
+    border-radius: 12px;
+    transition: 400ms;
+    font-size: 20px;
+    font-family: Minecraft-Font;
+    color: #dd562d;
+    background: #d1d1d1;
+}
+
+.menu-content a:active {
+    background-image: url(../image/button-backgrounds/END-STONE-WEBP.webp)
+}
+
+/*--------------------------------------------------------------------*/
+
+.Title {
+    width: fit-content;
+    margin-top: 80px;
+    font-family: Minecraft-Font;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Website-Info {
+    font-family: Merriweather-Font;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 750px;
+}
+
+.Recent-Update {
+    width: fit-content;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Updated-Mods-Container {
+    background-color: grey;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1300px;
+    height: 300px;
+}
